@@ -1,4 +1,4 @@
-module github.com/githubnemo/CompileDaemon
+module github.com/aashiks-hf/CompileDaemon
 
 go 1.18
 
